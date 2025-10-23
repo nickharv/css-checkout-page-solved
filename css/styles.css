@@ -369,6 +369,7 @@ footer ul {
   list-style-type: none;
   align-items: center;
   font-size: 12px;
+  gap: 15px;
 }
 
 footer ul a {
@@ -378,5 +379,7 @@ footer ul a {
 
 /* 🔴 CSS property name Error here 👇 */
 footer ul li span a {
+  text-decoration: none;
+  padding-left:  10px;
   color: rgb(218, 82, 82);
 }

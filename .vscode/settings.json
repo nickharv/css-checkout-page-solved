@@ -1,5 +1,5 @@
 {
   "liveServer.settings.port": 5551,
-  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
   "cSpell.words": ["devslopes", "Somebodyvich"]
 }
